@@ -5,7 +5,8 @@
     "outDir": "./out-tsc/spec",
     "types": [
       "jasmine"
-    ]
+    ],
+    "noPropertyAccessFromIndexSignature": false
   },
   "files": [
     "src/test.ts",
